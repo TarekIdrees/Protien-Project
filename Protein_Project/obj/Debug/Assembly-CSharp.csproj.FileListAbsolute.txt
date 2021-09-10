@@ -1,0 +1,2 @@
+C:\Users\sfahg\OneDrive\Desktop\Bioinfromatics-3-2\Bioinformatics\Lecture\Lec 1 & 2\Lec_1\In_Lec_14_04_21\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\sfahg\OneDrive\Desktop\Bioinfromatics-3-2\Bioinformatics\Lecture\Lec 1 & 2\Lec_1\In_Lec_14_04_21\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
