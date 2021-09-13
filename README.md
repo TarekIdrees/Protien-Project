@@ -67,7 +67,7 @@ Function to Rotate all atoms about y-axis at theta = 0.1
 ```
 * RotationZ
 ```
-//Rotate all atoms about z-axis at theta = 0.1.
+Rotate all atoms about z-axis at theta = 0.1.
 ```
 * RotateArbitaty
 ```
