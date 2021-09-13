@@ -81,3 +81,5 @@ Function to calculate the average BFactor for atoms between two given Boxes.
 ```
 Function to calculate the AVG bond length of all atoms that between two given speiral.
 ```
+## Credits
+[Tarek Idrees](https://github.com/TarekIdrees)
