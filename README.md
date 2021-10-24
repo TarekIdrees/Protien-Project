@@ -1,4 +1,4 @@
-# Protien-Project
+# Protein-Project
 * Unity Program for doing some function on Protein (coding in C#)
 # Functions of program 
 * PrintFile
